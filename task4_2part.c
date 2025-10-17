@@ -13,25 +13,7 @@ void def422()
 		} while (j <= 10);
 		printf("\n");
 		i = i + 1;
-	} while (i <= 10);
-	printf("\nконец операции\n\n");
-}
-void def423()
-{
-	int i = 1;
-	int j = 5;
-	while (i <= 5)
-	{
-		int t = 1;
-		while (t <= j) {
-			printf("%d ", 5);
-			t = t + 1;
-		}
-		printf("\n");
-		j = j - 1;
-		i = i + 1;
-	}
-	printf("\nконец операции\n\n");
+
 }
 
 
